@@ -550,15 +550,15 @@ This project is **not open source**. Contributions are restricted to:
 ### 📝 How to Get Involved
 
 #### For General Users:
-- **🐛 Report Bugs**: Use our [official support](https://support.subscrybe.com/bugs)
-- **💡 Suggest Features**: Submit via [feature requests](https://support.subscrybe.com/features)
-- **📖 Improve Documentation**: Contact [docs@subscrybe.com](mailto:docs@subscrybe.com)
-- **🌍 Translations**: Join our [localization program](https://translate.subscrybe.com)
+- **🐛 Report Bugs**: Use our [official support](Will be added)
+- **💡 Suggest Features**: Submit via [feature requests](Will be added)
+- **📖 Improve Documentation**: Contact [docs@subscrybe.com](Will be added)
+- **🌍 Translations**: Join our [localization program](Will be added)
 
 #### For Developers:
-- **🤝 Partnership Program**: Apply at [partners@subscrybe.com](mailto:partners@subscrybe.com)
-- **🧪 Beta Testing**: Join our [beta program](https://beta.subscrybe.com)
-- **🔌 Plugin Development**: Review our [API documentation](https://api.subscrybe.com)
+- **🤝 Partnership Program**: Apply at [partners@subscrybe.com](Will be added)
+- **🧪 Beta Testing**: Join our [beta program](Will be added)
+- **🔌 Plugin Development**: Review our [API documentation](Will be added)
 
 ### 📋 Development Guidelines
 
@@ -585,9 +585,9 @@ For authorized contributors:
 
 ### 📞 Contact for Contributions
 
-- **Development Team**: [dev@subscrybe.com](mailto:dev@subscrybe.com)
-- **Partnership Inquiries**: [partners@subscrybe.com](mailto:partners@subscrybe.com)
-- **Security Issues**: [security@subscrybe.com](mailto:security@subscrybe.com)
+- **Development Team**: [dev@subscrybe.com](martuk839@gmail.com)
+- **Partnership Inquiries**: [partners@subscrybe.com](martuk839@gmail.com)
+- **Security Issues**: [security@subscrybe.com](martuk839@gmail.com)
 
 ## 📄 License
 
@@ -619,28 +619,27 @@ For licensing inquiries: legal@subscrybe.com
 
 ### 🤝 Get Help
 
-[![Official Support](https://img.shields.io/badge/Official_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://support.subscrybe.com)
-[![Discord Community](https://img.shields.io/badge/Discord_Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/subscrybe)
-[![Email Support](https://img.shields.io/badge/Email_Support-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@subscrybe.com)
+[![Official Support](https://img.shields.io/badge/Official_Support-4285F4?style=for-the-badge&logo=google&logoColor=white)](Will be added)
+[![Email Support](https://img.shields.io/badge/Email_Support-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](Will be added)
 
 </div>
 
 ### 💬 Community & Support
 
-- **🐛 Bug Reports**: [Report issues](https://support.subscrybe.com/bugs)
-- **✨ Feature Requests**: [Request features](https://support.subscrybe.com/features)
-- **💬 Community**: [Join Discord](https://discord.gg/subscrybe)
-- **📖 Documentation**: [Help Center](https://help.subscrybe.com)
-- **🔧 Setup Help**: [Setup Guide](https://help.subscrybe.com/setup)
-- **📧 Direct Support**: [support@subscrybe.com](mailto:support@subscrybe.com)
+- **🐛 Bug Reports**: [Report issues](Will be added)
+- **✨ Feature Requests**: [Request features](Will be added)
+- **💬 Community**: [Join Discord](Will be added)
+- **📖 Documentation**: [Help Center](Will be added)
+- **🔧 Setup Help**: [Setup Guide](Will be added)
+- **📧 Direct Support**: [support@subscrybe.com](Will be added)
 
 ### 📚 Additional Resources
 
-- [User Guide](https://help.subscrybe.com/guide) - Complete user manual
-- [Video Tutorials](https://help.subscrybe.com/videos) - Step-by-step tutorials
-- [FAQ](https://help.subscrybe.com/faq) - Frequently asked questions
-- [System Status](https://status.subscrybe.com) - Service status page
-- [Release Notes](https://subscrybe.com/releases) - Latest updates
+- [User Guide](Will be added) - Complete user manual
+- [Video Tutorials](Will be added) - Step-by-step tutorials
+- [FAQ](Will be added) - Frequently asked questions
+- [System Status](Will be added) - Service status page
+- [Release Notes](Will be added) - Latest updates
 
 ### 🏢 Business & Enterprise
 
@@ -654,12 +653,12 @@ For licensing inquiries: legal@subscrybe.com
 
 **⭐ Try Subscrybe today - Free for personal and commercial use!**
 
-**Built with ❤️ by the Subscrybe Team**
+**Built with ❤️ by the Indie Developer**
 
 [⬆ Back to Top](#-subscrybe---advanced-subscription-management-platform)
 
 ---
 
-© 2024 Subscrybe. All rights reserved. | [Privacy Policy](https://subscrybe.com/privacy) | [Terms of Service](https://subscrybe.com/terms)
+© 2025 Subscrybe. All rights reserved.
 
 </div>
