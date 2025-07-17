@@ -2,7 +2,7 @@
 
 # 💳 Subscrybe - Advanced Subscription Management Platform
 
-*Take control of your subscriptions with AI-powered insights and smart analytics*
+*Take control of your subscriptions with AI-powered insights and smart analytics.*
 *This is just the README file the Platform will be published as soon as everything is ready, so it includes mock sites or links for now, everything will be updated.*
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-blue.svg)](./LICENSE)
